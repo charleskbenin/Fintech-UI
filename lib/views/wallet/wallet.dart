@@ -1,15 +1,6 @@
-import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
-import 'package:google_fonts/google_fonts.dart';
+import 'package:test/utils/exports.dart';
 
-import 'package:test/response_sample.dart';
-import 'package:test/styles/styles.dart';
-import 'package:test/styles/theme.dart';
-
-import '../../functions/functions.dart';
-import '../../widgets/widget.dart';
-import 'barChart.dart';
 
 class WalletPage extends StatefulWidget {
   const WalletPage({super.key});

@@ -1,14 +1,15 @@
 import 'package:bottom_indicator_bar_svg/bottom_indicator_bar_svg.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
+import 'package:flutter_svg/svg.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:test/styles/theme.dart';
-import 'package:test/views/home/Homepage.dart';
-import 'package:test/views/profile/profile.dart';
+// import 'package:test/utils/exports.dart';
 import 'package:test/views/transactions/transactions.dart';
-import 'package:test/views/wallet/wallet.dart';
-import 'package:test/styles/styles.dart';
+
+import '../styles/styles.dart';
+import '../styles/theme.dart';
+import '../views/home/Homepage.dart';
+import '../views/profile/profile.dart';
+import '../views/wallet/wallet.dart';
 
 // AppBar
 
